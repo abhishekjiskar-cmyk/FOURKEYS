@@ -1,0 +1,15 @@
+google-generativeai
+pillow
+streamlit
+pandas
+matplotlib
+seaborn
+python-dotenv
+transformers
+torch
+accelerate
+bitsandbytes
+sentencepiece
+protobuf
+numpy
+scikit-learn
